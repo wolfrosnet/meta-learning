@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+cifar100/
+omniglot/
